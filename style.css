@@ -13,21 +13,6 @@ html {
     font-family: 'Poppins', sans-serif;
 }
 
-a {
-    text-decorration: none;
-}
-
-h4 a {
-    color: #000;
-}
-
-/* #logo {
-    max-width: 300px;
-    padding: 60px 80px;
-    cursor: pointer;
-    z-index: 2;
-} */
-
 header {
     width: 65%;
     height: 85vh;
