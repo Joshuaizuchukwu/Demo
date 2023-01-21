@@ -13,6 +13,13 @@ html {
     font-family: 'Poppins', sans-serif;
 }
 
+
+#logo {
+    max-width: 300px;
+    padding: 60px 80px;
+    cursor: pointer;
+}
+
 header {
     width: 65%;
     height: 85vh;
