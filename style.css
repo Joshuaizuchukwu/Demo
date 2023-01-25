@@ -799,7 +799,7 @@ nav ul li a {
 #menuBtn {
     width: 35px;
     position: fixed;
-    right: 11%;
+    right: 0;
     top: 30px;
     z-index: 51;
     border-radius: 50%;
