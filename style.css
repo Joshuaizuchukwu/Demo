@@ -709,7 +709,7 @@ section .box .cont_box ul li::before {
     display: inline-block;
     height: 40px;
     width: 40px;
-    background: rgba(255, 255, 255, .2);
+    background: #fff;
     margin: 0 10px 10px 0;
     text-align: center;
     line-height: 40px;
@@ -717,11 +717,19 @@ section .box .cont_box ul li::before {
     color: #ffffff;
     transition: all .5s ease;
 }
+
+
+.footer_container .row .social-links a img {
+    width: 40px;
+    padding: 10px;
+    min-width: 40px;
+}
+/* 
 .footer_container .row .social-links a:hover {
   color: #000;
   background: #ffffff;
 }
-
+ */
 
 
 /* responsive */
