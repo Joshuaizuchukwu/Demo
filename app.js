@@ -70,3 +70,13 @@ menuBtn.onclick = function(){
         sideNav.style.right = "-250px";
     }
 }
+
+
+
+var loader = document.getElementById("preloader");
+
+window.addEventListener("load", function(){
+    loader.style.display = "none";
+})
+
+
