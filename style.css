@@ -21,7 +21,6 @@ html {
     width: 100%;
     background-size: 30px;
     position: fixed;
-    overflow: hidden;
     z-index: 11000;
 }
 
