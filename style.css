@@ -21,7 +21,7 @@ html {
     width: 100%;
     background-size: 30px;
     position: fixed;
-    z-index: 11000;
+    z-index: 99999;
 }
 
 .toggle {
@@ -746,6 +746,20 @@ section .box .cont_box ul li::before {
 
 @media screen and (max-width: 1150px) {
 
+    
+    
+#preloader {
+    background: #000 url(/img/loader.gif) no-repeat center center;
+    height: 100%;
+    top: 0;
+    width: 100%;
+    background-size: 30px;
+    position: fixed;
+    z-index: 99999;
+}
+
+    
+    
     /*************************************  toggle edit starts!  ***********************************************/
     
 
