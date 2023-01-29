@@ -15,7 +15,7 @@ html {
 
 
 #preloader {
-    background: #000 url(/img/loader.gif) no-repeat center center;
+    background: #212121 url(/img/loader.gif) no-repeat center center;
     height: 100vh;
     top: 0;
     width: 100%;
@@ -749,7 +749,7 @@ section .box .cont_box ul li::before {
     
     
 #preloader {
-    background: #000 url(/img/loader.gif) no-repeat center center;
+    background: #212121 url(/img/loader.gif) no-repeat center center;
     height: 100%;
     top: 0;
     width: 100%;
