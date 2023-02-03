@@ -15,7 +15,7 @@ html {
 
 
 #preloader {
-    background: #212121 url(/img/loader.gif) no-repeat center center;
+    background: #000 url(/img/loader.gif) no-repeat center center;
     height: 100vh;
     top: 0;
     width: 100%;
